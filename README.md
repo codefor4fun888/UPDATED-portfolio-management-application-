@@ -16,6 +16,10 @@ Start the dashboard:
 python -m streamlit run superstore_app.py
 
 
+
+
 Dashboard opens at:
+http://localhost:8501
+
 
 http://localhost:8501
