@@ -5,7 +5,7 @@ This Dashboard is a lightweight interactive analytics application built with Str
 
 
 How to Run This Project
-✅ 1. Install Python (Required)
+1. Install Python (Required)
 
 Clone the Repository:
 
@@ -13,6 +13,7 @@ Open a terminal (Command Prompt, PowerShell, or Mac Terminal) and run:
 
 git clone https://github.com/codefor4fun888/UPDATED-portfolio-management-application-.git
 
+Go into the project folder:
 cd UPDATED-portfolio-management-application-
 
 Open the extracted folder in VS Code or Terminal
