@@ -11,10 +11,12 @@ Clone the Repository:
 
 Open a terminal (Command Prompt, PowerShell, or Mac Terminal) and run:
 
-git clone https://github.com/codefor4fun888/UPDATED-portfolio-management-application-.git
+git clone https://github.com/codefor4fun888/UPDATED-portfolio-Analyzer-application-.git
+
 
 Go into the project folder:
-cd UPDATED-portfolio-management-application-
+cd UPDATED-portfolio-Analyzer-application-
+
 
 Open the extracted folder in VS Code or Terminal
 
